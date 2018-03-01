@@ -1,5 +1,5 @@
 +++
-date = ""
+date = "2016-11-06T18:25:22+05:30"
 title = "> FIT Intercâmbio"
 draft = false
 image = "img/portfolio/business-card-26.jpg"
