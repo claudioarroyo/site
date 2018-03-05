@@ -14,3 +14,5 @@ Re-branding e reforma da loja FIT Intercâmbio, com detalhamento de mobiliários
 * REFUGIO_DESIGN
 * //ARQUITETURA claudio_arroyo
 * //DESIGN thais_mor
+
+{{< gallery caption-position="center" caption-effect="fade" hover-effect="zoom" hover="transition" dir="/img/portfolio/" />}} {{< load-photoswipe >}}
