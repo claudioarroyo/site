@@ -1,3 +1,3 @@
 +++
-title = "design gráfico e comunicação visual"
+title = ". design gráfico e comunicação visual ."
 +++

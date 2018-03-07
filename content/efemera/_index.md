@@ -1,3 +1,3 @@
 +++
-title = "arquitetura efêmera, quiosques e exposições"
+title = ". arquitetura efêmera, estandes, quiosques e exposições ."
 +++
