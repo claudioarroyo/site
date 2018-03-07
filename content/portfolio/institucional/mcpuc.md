@@ -2,7 +2,7 @@
 date = "2013-05-17T00:00:00+00:00"
 title = "> Hall Museu de Ciências Naturais"
 draft = false
-image = "img/portfolio/ins/MCPUC/1_museu_de_ciências_naturais_Puc_Minas.png"
+image = "img/portfolio/ins/MCPUC/1_museu_de_ciências_naturais_Puc_Minas.jpg"
 showonlyimage = false
 weight = 1
 +++

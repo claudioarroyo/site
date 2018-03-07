@@ -2,7 +2,7 @@
 date = "2017-11-06T00:00:00+00:00"
 title = "> Quarto de bebê"
 draft = false
-image = "img/portfolio/res/QBB/quarto_bebe.png"
+image = "img/portfolio/res/QBB/quarto_bebe.jpg"
 showonlyimage = false
 weight = 1
 +++
